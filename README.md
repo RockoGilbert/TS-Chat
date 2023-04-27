@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-# TS-Chat
-
->>>>>>> 68049d73ade22b422920c1e906fae69868eb5c61
-## Building?
 
 A chat application with rooms
 
