@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# TS-Chat
+
+>>>>>>> 68049d73ade22b422920c1e906fae69868eb5c61
 ## Building?
 
 A chat application with rooms
@@ -38,6 +43,7 @@ A chat application with rooms
 ## Screenshots
 
 ### Enter
+<<<<<<< HEAD
 
 ![](./enter.png)
 
@@ -48,3 +54,16 @@ A chat application with rooms
 ### Chat convo
 
 ![](./chatconvo.png)
+=======
+![enter](https://user-images.githubusercontent.com/70171772/234981351-c2e0fceb-7203-4303-8d56-9c4b5937b738.png)
+
+### Choose a room
+![enterchat](https://user-images.githubusercontent.com/70171772/234981400-7fc3b800-7a58-41f3-a833-6a33982b94f1.png)
+
+### Chat
+![inchat](https://user-images.githubusercontent.com/70171772/234981579-f2a7cf0f-0d80-4001-a19b-14c0db7ff79e.png)
+
+### Chat convo
+![chatconvo](https://user-images.githubusercontent.com/70171772/234981430-91119129-5ab2-4c49-aa2e-35facd6f14f3.png)
+
+>>>>>>> 68049d73ade22b422920c1e906fae69868eb5c61
