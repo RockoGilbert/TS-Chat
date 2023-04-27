@@ -40,8 +40,8 @@ A chat application with rooms
 ## Screenshots
 
 ### Enter
+enter.png
 
-![](./enter.png)
 
 ### Choose a room
 
