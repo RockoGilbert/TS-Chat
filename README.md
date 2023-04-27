@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-# TS-Chat
-
->>>>>>> 68049d73ade22b422920c1e906fae69868eb5c61
-## Building?
 
 A chat application with rooms
 
@@ -66,4 +60,8 @@ A chat application with rooms
 ### Chat convo
 ![chatconvo](https://user-images.githubusercontent.com/70171772/234981430-91119129-5ab2-4c49-aa2e-35facd6f14f3.png)
 
->>>>>>> 68049d73ade22b422920c1e906fae69868eb5c61
+## Client Code
+![client](https://user-images.githubusercontent.com/70171772/234993926-20d49a74-1388-4e13-be3b-17f2f0264465.png)
+
+## Server Code 
+![server_code](https://user-images.githubusercontent.com/70171772/234994061-4e06dc55-f438-4e60-8545-876fc9e5b322.png)
