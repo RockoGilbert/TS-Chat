@@ -60,4 +60,3 @@ A chat application with rooms
 ### Chat convo
 ![chatconvo](https://user-images.githubusercontent.com/70171772/234981430-91119129-5ab2-4c49-aa2e-35facd6f14f3.png)
 
->>>>>>> 68049d73ade22b422920c1e906fae69868eb5c61
