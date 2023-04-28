@@ -3,6 +3,7 @@ import io, { Socket } from "socket.io-client";
 import { SOCKET_URL } from "../config/default";
 import EVENTS from "../config/events";
 
+// What features of the chat are used?
 interface Context {
   socket: Socket;
   username?: string;
