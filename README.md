@@ -36,8 +36,6 @@ A chat application with rooms
 
 ## Screenshots
 
-### Enter
-<<<<<<< HEAD
 
 ![](./enter.png)
 
@@ -45,7 +43,6 @@ A chat application with rooms
 
 ![](./enterchat.png)
 
-### Chat convo
 
 ![](./chatconvo.png)
 =======
